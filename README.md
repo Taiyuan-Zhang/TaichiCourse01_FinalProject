@@ -18,7 +18,7 @@
 >  python PCISPH.py
 
 ## 效果展示
-> ![](G:\Users\Imaginer\Desktop\siggraph\2D-PCISPH\TaichiCourse01_FinalProject\data\video.gif)
+> ![](data\video.gif)
 
 ## 整体结构
 
@@ -38,7 +38,7 @@
 >
 > 其余均参照论文中的算法流程进行复现
 
-![](G:\Users\Imaginer\Desktop\siggraph\2D-PCISPH\TaichiCourse01_FinalProject\data\PCISPH.png)
+![](data\PCISPH.png)
 
-![](G:\Users\Imaginer\Desktop\siggraph\2D-PCISPH\TaichiCourse01_FinalProject\data\Rigid-Fluid.png)
+![](data\Rigid-Fluid.png)
 
